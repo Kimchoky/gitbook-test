@@ -11,6 +11,7 @@
 ## WEB/WAS
 
 * [Apache SSL](web-was/untitled.md)
+* [DNS 관리 예제](web-was/dns.md)
 
 ## DBMS
 
